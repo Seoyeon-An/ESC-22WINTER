@@ -15,4 +15,6 @@
 
 설명
 
-## Study
+## 자료
+- 모두를 위한 딥러닝 시즌2 Pytorch - https://deeplearningzerotoall.github.io/season2/lec_pytorch.html
+- 
