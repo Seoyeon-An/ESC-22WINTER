@@ -13,7 +13,7 @@
 |week 6(2/10)|RNN| |
 |week 7(2/17)|GNN| |
 
-설명
+설명~~
 
 ## 파이토치 스터디 자료
 - 모두를 위한 딥러닝 시즌2 Pytorch - https://deeplearningzerotoall.github.io/season2/lec_pytorch.html
