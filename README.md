@@ -1,5 +1,5 @@
 # ESC-22WINTER
-![Poster](https://user-images.githubusercontent.com/56993675/131220781-6afdc147-3bff-4713-aa7a-2d79d1874639.png)
+![2022 winter 표지](https://user-images.githubusercontent.com/56993675/147876805-2bcaf810-2f2c-470d-89be-0051e1e5e4a2.png)
 
 ## Plan
 
