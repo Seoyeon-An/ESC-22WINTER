@@ -3,7 +3,7 @@
 
 ## Plan
 
-|week|Main Session(every Thursday)|Special Session(Saturday)|
+|week|Main Session<br>(every Thursday 19:00~21:00))|Special Session<br>(Saturday 15:00~17:00)|
 |:--:|:--------------------------:|:------------------------|
 |week 1(1/06)|Overall introduction| |
 |week 2(1/13)|Deep learning 기본 구조 및 원리| 파이토치 스터디(1) |
