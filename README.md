@@ -17,12 +17,6 @@
 모두를 위한 딥러닝 시즌2 Pytorch - https://deeplearningzerotoall.github.io/season2/lec_pytorch.html
 
 ## 정규세션 교재
-Deep learning
+Goodfellow, I., Bengio, Y., and Courville, A. (2016). Deep Learning. MIT Press.
 
-@book{Goodfellow-et-al-2016,
-    title={Deep Learning},
-    author={Ian Goodfellow and Yoshua Bengio and Aaron Courville},
-    publisher={MIT Press},
-    note={\url{http://www.deeplearningbook.org}},
-    year={2016}
-}
+
